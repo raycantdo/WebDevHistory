@@ -1,0 +1,8 @@
+Web 1.0 (The Static Web) 
+Web 1.0, the earliest phase of the internet (1990s to early 2000s), was primarily static, with simple, read-only pages. Websites were composed of basic HTML, CSS, and images, with limited interaction or dynamic content. It was a one-way communication system, where users could only consume content, not contribute. Popular tools included HTML for structure, basic CSS for styling, and rudimentary JavaScript for limited interactivity. This era lacked user-generated content and social interaction features.
+
+Web 2.0 (The Social Web)
+Web 2.0  marked a shift toward interactivity, user-generated content, and collaboration. Websites became dynamic and interactive, utilizing technologies like AJAX, PHP, and JavaScript frameworks (e.g. React) to create responsive, real-time experiences. Social media platforms, blogs, and wikis flourished, empowering users to create and share content. Key features included user accounts, comments, multimedia, and social networks. Tools like WordPress, YouTube, Facebook, and Twitter epitomized Web 2.0, fostering online communities and participation.
+
+Web 3.0 (The Semantic Web) 
+Web 3.0, still evolving, is focused on creating a more intelligent, decentralized, and personalized internet. It integrates technologies like blockchain, AI, and the Semantic Web to enable machines to understand and interpret data. This era emphasizes decentralization, privacy, and ownership of data, with blockchain enabling decentralized apps  and cryptocurrencies. Web 3.0 tools include smart contracts, decentralized storage systems (e.g., IPFS), and AI-driven applications that adapt and predict user needs. It aims to provide a more personalized, secure, and user-controlled online experience.
